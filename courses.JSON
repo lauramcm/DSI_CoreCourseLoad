@@ -1,0 +1,231 @@
+{
+  "name": "DSI Core Courses",
+  "children": [
+    {
+      "name": "Visual Analytics",
+      "children": [
+        {
+          "name": "CSS"
+        },
+        {
+          "name": "D3"
+        },
+        {
+          "name": "Dimension Reduction"
+        },
+        {"name": "DOM"},
+        {
+          "name": "Gephi"
+        },
+        {
+          "name": "Graphs"
+        },
+        {
+          "name": "HTML"
+        },
+        {
+          "name": "Javascript"
+        },
+        {
+          "name": "Multi-Dimensional Visualization"
+        },
+        {
+          "name": "Networks"
+        },
+        {
+          "name": "NLP"
+        },
+        {
+          "name": "R"
+        },
+        {
+          "name": "Stratifyd"
+        },
+        {
+          "name": "SVG"
+        },
+        {
+          "name": "Tableau"
+        },
+        {
+          "name": "Text Analysis"
+        },
+        {
+          "name": "Time Series Visualization"
+        },
+        {
+          "name": "Trees"
+        }
+      ]
+    },
+    {
+      "name": "Big Data Analytics for Competitive Advantage",
+      "children": [
+        {
+          "name": "Regression",
+          "children": [
+            {
+              "name": "Linear Regression"
+            },
+            {
+              "name": "Multiple Regression",
+              "size": 1041
+            }
+          ]
+        },
+        {"name": "Cluster Analysis", "size": 5842},
+        {"name": "Time Series Visualization", "size": 5176},
+        {"name": "Big Data in Big Companies", "size": 449},
+        {"name": "Introduction to Big Data Analytics", "size": 5593},
+        {"name": "K-Means", "size": 5534},
+        {"name": "Segmentation", "size": 9201}
+      ]
+    },
+
+    {
+      "name": "Machine Learning",
+      "children": [
+        {"name": "Cluster Analysis"},
+        {
+          "name": "Regression",
+          "children": [
+            {
+              "name": "Linear Regression",
+              "size": 2165
+            },
+            {
+              "name": "Multiple Regression",
+              "size": 586
+            },
+            {
+              "name": "Logistic Regression"
+            }
+          ]
+        },
+        {"name": "K-Means", "size": 3331},
+        {"name": "Segmentation", "size": 772},
+        {"name": "Association Rule Mining", "size": 3322},
+        {"name": "Neural Networks", "size": 772},
+        {"name": "Predictive Modeling", "size": 772},
+        {"name": "Unsupervised Learning", "size": 772},
+        {"name": "Dimension Reduction", "size": 772},
+        {"name": "NLP", "size": 772},
+        {"name": "R", "size": 772},
+        {"name": "Text Analysis", "size": 772},
+        {"name": "Trees", "size": 772},
+        {"name": "Bayesian Learning", "size": 772},
+        {"name": "Decision Trees", "size": 772},
+        {"name": "Experimentation", "size": 772},
+        {"name": "Game Theory", "size": 772},
+        {"name": "Genetic Algorithms", "size": 772},
+        {"name": "Marcov Chains", "size": 772},
+        {"name": "Nash Equilibrium", "size": 772},
+        {"name": "Reinforcement Learning", "size": 772},
+        {"name": "Similarity Based Learning", "size": 772},
+        {"name": "Supervised Learning", "size": 772},
+        {"name": "Support Vector Machines", "size": 772}
+
+      ]
+    },
+    {
+      "name": "Database Systems",
+      "children": [
+        {"name": "Database Design", "size": 8833},
+        {"name": "Relational Model", "size": 1732},
+        {"name": "Entity-Relationship Diagram", "size": 3623},
+        {"name": "Index Structures", "size": 10066},
+        {"name": "Knowledge Graph & Triplestores", "size": 772},
+        {"name": "Query Optimization", "size": 772},
+        {"name": "Query Processing", "size": 772},
+        {"name": "RDBMS", "size": 772},
+        {"name": "SQL", "size": 772}
+      ]
+    },
+    {
+      "name": "Business Intelligence & Analytics",
+      "children": [
+        {"name": "Regression",
+        "children": [
+        {"name": "Linear Regression", "size": 772},
+        {"name": "Multiple Regression", "size": 772},
+        {"name": "Logistic Regression", "size": 772}
+        ]
+      },
+        {"name": "Database Design", "size": 4116},
+        {"name": "Relational Model", "size": 772},
+        {"name": "Cluster Analysis", "size": 772},
+
+        {"name": "Association Rule Mining", "size": 772},
+        {"name": "Neural Networks", "size": 772},
+        {"name": "Predictive Modeling", "size": 772},
+        {"name": "Unsupervised Learning", "size": 772},
+        {"name": "Data Warehousing", "size": 772},
+        {"name": "Decision Tables", "size": 772},
+        {"name": "Decision Trees", "size": 772},
+        {"name": "Dummy Coding", "size": 772},
+        {"name": "ROC Curves", "size": 772},
+        {"name": "SAS Enterprise Guide", "size": 772},
+        {"name": "SAS Enterprise Miner", "size": 772}
+      ]
+    },
+    {
+      "name": "Advanced Business Analytics",
+      "children": [
+        {"name": "Regression",
+        "children": [
+        {"name": "Linear Regression", "size": 1336},
+        {"name": "Multiple Regression", "size": 319},
+        {"name": "Logistic Regression", "size": 10498}]
+      },
+        {"name": "Neural Networks", "size": 2822},
+        {"name": "Predictive Modeling", "size": 9983},
+        {"name": "Decision Trees", "size": 2213},
+        {"name": "Dummy Coding", "size": 1681},
+        {"name": "SAS Enterprise Guide", "size": 772},
+        {"name": "SAS Enterprise Miner", "size": 772},
+        {"name": "Dimension Reduction", "size": 772},
+        {"name": "NLP", "size": 772},
+        {"name": "Text Analysis", "size": 772},
+        {"name": "Experimentation", "size": 772},
+        {"name": "Time Series Visualization", "size": 772},
+        {"name": "Gephi", "size": 772},
+        {"name": "Discriminant Analysis", "size": 772},
+        {"name": "Forecasting", "size": 772},
+        {"name": "Principal Component Analysis", "size": 772},
+        {"name": "SAS Forecase Studio", "size": 772},
+        {"name": "Seasonality Analysis", "size": 772},
+        {"name": "Social Network Analysis", "size": 772},
+        {"name": "Text Mining", "size": 772}
+      ]
+    },
+    {
+      "name": "Consumer Analytics",
+      "children": [
+        {
+          "name": "Regression",
+          "children": [
+            {
+              "name": "Linear Regression",
+              "size": 1027
+            },
+            {
+              "name": "Multiple Regression",
+              "size": 3891
+            },
+            {
+              "name": "Logistic Regression",
+              "size": 891
+            }
+          ]
+        },
+        {"name": "Cluster Analysis", "size": 2893},
+        {"name": "Dummy Coding", "size": 5103},
+        {"name": "SAS Enterprise Guide", "size": 3677},
+        {"name": "Discriminant Analysis", "size": 781},
+        {"name": "Segmentation", "size": 4141},
+        {"name": "MDS for Perceptual Mapping", "size": 933},
+        {"name": "Targeting", "size": 5130}
+      ]
+    }
+  ]
+}
